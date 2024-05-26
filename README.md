@@ -18,7 +18,7 @@ I'm a software engineer with a passion for creating full-stack applications that
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql&labelColor=%23000000)
 
 #### 📫 Reach me out!
-![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fstepan-tsiolkovskiy-6baba125b%2F)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/stepan-tsiolkovskiy-6baba125b/)
 
 
 
